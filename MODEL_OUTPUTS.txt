@@ -1,0 +1,15 @@
+MODEL OUTPUTS
+Linear Regression:
+Mean: 37.46172639071694
+Standard Deviation: 12.251463848713268
+Cross-Validation Mean: 0.03288187991199034
+
+Decision Tree:
+Mean: 38.75949367088607
+Standard Deviation: 33.007753285536126
+Cross-Validation Mean: -1.0935506241403963
+
+Random Forest:
+Mean: 39.16816289933695
+Standard Deviation: 20.57207148466823
+Cross-Validation Mean: -0.25001407917313606

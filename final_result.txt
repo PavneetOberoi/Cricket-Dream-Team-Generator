@@ -1,0 +1,53 @@
+final predictions-
+Hardik Pandya       MI        ALL       34.23717661483066
+Kieron Pollard      MI        ALL       40.39602772896596
+Krunal Pandya       MI        ALL       28.775104540220134
+Glenn Maxwell       KXIP      ALL       27.628789225788182
+Gowtham             KXIP      ALL       14.626770207058094
+James Neesham       KXIP      ALL       18.402974803650526
+Pattinson           MI        BALL      30.470040291822414
+Rahul Chahar        MI        BALL      39.916509119121706
+Boult               MI        BALL      45.97454103332054
+Bumrah              MI        BALL      49.67786024066431
+Coulter Nile        MI        BALL      22.283100641496365
+Chris Jordan        KXIP      BALL      29.264286351580836
+Mohammed Shami      KXIP      BALL      40.60004894433998
+Sheldon Cottrell    KXIP      BALL      18.31867437664095
+Ravi Bishnoi        KXIP      BALL      35.24704994220372
+Murugan Ashwin      KXIP      BALL      32.72799158825724
+H Brar              KXIP      BALL      10.371348696982253
+Mujeeb Rahman       KXIP      BALL      10.68623099122556
+Arshdeep Singh      KXIP      BALL      27.135378615453618
+Rohit Sharma        MI        BAT       46.0721482028665
+S.Yadav             MI        BAT       58.80541873083108
+Saurabh Tiwary      MI        BAT       24.72060787785164
+Mayank Agarwal      KXIP      BAT       43.75968939599912
+Karun Nair          KXIP      BAT       6.792129798682598
+Sarfaraz Khan       KXIP      BAT       9.66738443402944
+Mandeep Singh       KXIP      BAT       21.1684029754168
+Chris Gayle         KXIP      BAT       38.83817555868049
+Deepak Hooda        KXIP      BAT       19.936150988839582
+De Kock             MI        WK        63.741920786130194
+Ishan Kishan        MI        WK        59.634414164206135
+KL Rahul            KXIP      WK        54.02845595080926
+Nicolas Pooran      KXIP      WK        42.021493190671634
+Prabhsimran Singh   KXIP      WK        7.61363112306741
+
+
+
+
+Selected Team:
+               Player  Role  Team  Predicted_Points
+1         De Kock (C)    WK    MI        127.483842
+2   Ishan Kishan (VC)    WK    MI         89.451621
+3             S.Yadav   BAT    MI         58.805419
+4              Bumrah  BALL    MI         49.677860
+5            KL Rahul    WK  KXIP         54.028456
+6      Mayank Agarwal   BAT  KXIP         43.759689
+7      Nicolas Pooran    WK  KXIP         42.021493
+8      Mohammed Shami  BALL  KXIP         40.600049
+9        Rohit Sharma   BAT    MI         46.072148
+10              Boult  BALL    MI         45.974541
+11     Kieron Pollard   ALL    MI         40.396028
+
+Total Predicted Points:  638.2711462370379
